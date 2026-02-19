@@ -37,7 +37,7 @@ const Home = () => {
           <img      
             src="/images/image.jpeg"
             alt="Login"
-            className="w-full h-full object-contaim opacity-10 animate-pulse  hidden sm:block rounded-2xl"
+            className="w-full h-full object-cover hidden sm:block rounded-2xl"
           />
          </div>  
      </div>
