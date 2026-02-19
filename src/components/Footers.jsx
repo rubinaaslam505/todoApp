@@ -11,7 +11,7 @@ export const Footers=()=>{
         TbMailPlus: <TbMailPlus />
     };
     return(
-        <footer className="footer-section bg-green-400 ">
+        <footer className="footer-section bg-violet-100 ">
          <div className="container grid grid-cols-3 mx-28 font-bold">
             {footerContact.map((curData, index)=>{
                 const{icon,title,detail}= curData;

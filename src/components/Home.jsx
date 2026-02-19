@@ -2,7 +2,7 @@ import React from "react";
 import { heroData, skillsData, projectsData } from "../data";
 const Home = () => {
   return (
-    <div className="bg-white text-black min-h-screen p-10">
+    <div className=" bg-violet-100 text-black min-h-screen p-10">
 
       <div className="grid md:grid-cols-2 items-center gap-10">
 
