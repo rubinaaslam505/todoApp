@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* That's it! In v4, this single line replaces:
+  @tailwind base; 
+  @tailwind components; 
+  @tailwind utilities;
+*/

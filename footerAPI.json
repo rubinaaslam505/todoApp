@@ -1,0 +1,19 @@
+[
+    {
+        "icon":"MdPlace",
+        "title":"contact us",
+        "details":"ichra Lahore"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title":"Call us",
+        "detail": "03127048993"
+
+    },
+    {
+        "icon":"TbMailPlus",
+        "title":"Email",
+        "detail":"asimdigimark89@gmail.com"
+    }
+
+]
